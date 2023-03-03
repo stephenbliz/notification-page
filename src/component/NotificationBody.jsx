@@ -1,4 +1,4 @@
-import Photo8 from '../images/Photo8.jpg';
+
 
 const NotificationBody = ({notifications, handleRead, message, handleOpenMessage}) => {
 
